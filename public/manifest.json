@@ -4,6 +4,9 @@
 	"short_name": "Budget Tracker",
 	"description": "Helps you keep track of your spending even while traveling",
 	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"display": "standalone",
+
 	"icons": [
 		{
 			"src": "icon-192x192.png",
