@@ -9,16 +9,10 @@ This application can be used for tracking money spent and deposited while user i
 
  ## Table of Contents: 
 
-*[Installation](#installation) 
 *[Contribution](#contribution)
 *[Tests](#tests) 
 *[Questions](#questions)
 *[License](#license) 
-
-
-
-## Installation
-
 
 ## Contribution 
 
@@ -43,3 +37,4 @@ https://www.apache.org/licenses/LICENSE-2.0
 
 
 
+mongodb+srv://mcn4c6602:<CaRoline*1324>@cluster0.jjkco.mongodb.net/Budget?retryWrites=true&w=majority
